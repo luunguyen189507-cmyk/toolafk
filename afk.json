@@ -1,0 +1,20 @@
+{
+  "server": {
+    "host": "kingsmp.vn",
+    "port": 25565,
+    "version": "1.16.5"
+  },
+  "account": {
+    "username": "chankingheeh2",
+    "auth": "offline"
+  },
+  "logging": {
+    "console": true,
+    "file": true,
+    "fileName": "chat.log"
+  },
+  "ui": {
+    "showTime": true,
+    "colors": true
+  }
+}
